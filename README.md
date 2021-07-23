@@ -8,9 +8,11 @@ First things first: see instructions on how to download R and RStudio [here](htt
 I have added a few scripts and files to play with in this repository. Learning R will always be an ongoing process, and I have added a few resources below to get started, learn more, and keep handy while coding in R.
 
 ### This repo
+This repo is a work in progress, and I will add materials as necessary. The following material can be found right now:
+
+- intro to R
 
 ### Actual proper tutorials
-
 Suggested materials for learning
 - https://rafalab.github.io/dsbook/
 - https://datacarpentry.org/R-genomics/index.html
