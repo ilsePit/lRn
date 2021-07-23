@@ -1,5 +1,6 @@
 # lRn
-This is a repository with resources to learn some basic R and RMarkdown, using RStudio. Lots of things are possible using these tools, but I will focus on the necessary elements to understand conduct Social Science research.
+This is a repository with resources to learn some basic R and RMarkdown, using RStudio. Lots of things are possible using these tools, but I will focus on the necessary elements to understand conduct Social Science research. 
+*A quick explanation of the name of this repository (i.e. this page and all materials): for some reason there is a tradition in R tools to have punny names. The pronounciation of this repo (short for repository) is "learn" :) *
 
 ## Set up
 First things first: see instructions on how to download R and RStudio [here](https://datacarpentry.org/R-genomics/index.html#setup_instructions). The linked page also instructs you to install tidyverse and RSQLite, but this is *not necessary*.
