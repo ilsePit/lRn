@@ -18,7 +18,7 @@ In 2018 I gave an introduction to R for [RLadies Amsterdam](https://github.com/r
 #### to come
 - how to read csvs using read.csv and read.csv2
 
-If you have any requests, feel free to let me know via the issues page or by shooting me a message.
+If you have any requests, feel free to let me know via the [issues page](https://github.com/ilsePit/lRn/issues) or by shooting me a message.
 
 ### Actual proper tutorials
 Suggested materials for learning
