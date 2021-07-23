@@ -11,7 +11,9 @@
 
 # more Rstudio shortcuts: https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts
 
-# ?help function will help you get an idea of how to use functions
+# ?help function will help you get an idea of how to use the functions
+# for example:
+?mean()
 
 ########################################  R as calculator  #########################################  
 
@@ -207,7 +209,7 @@ barplot(my_week_df$work_hours)
 
 ###############################  Save the file for further use  ################################
 
-file_loc = '...' #the directory where you want to save the file
+file_loc = '...' # add the directory where you want to save the file, e.g. mycomputer/myfolder
 file_name = 'my_week_with_Rladies.csv' #make sure you add the '.csv'!
 
 file_loc_and_name = paste0(file_loc, '/', file_name)
