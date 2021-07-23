@@ -10,7 +10,15 @@ I have added a few scripts and files to play with in this repository. Learning R
 ### This repo
 This repo is a work in progress, and I will add materials as necessary. The following material can be found right now:
 
-- intro to R
+#### Intro to base R
+In 2018 I gave an introduction to R for [RLadies Amsterdam](https://github.com/rladiesamsterdam/2018_May_IntrotoR). I've adjusted the assignments and slides for use here.
+- [intro-base-R.R](https://github.com/ilsePit/lRn/blob/main/intro-base-R.R): script with some very basic R commands, upto creating a dataframe and saving it
+- [RLadiesAMS_2018May24.pdf](https://github.com/ilsePit/lRn/blob/main/RLadiesAMS_2018May24.pdf): slides with accompanying explanation
+
+#### to come
+- how to read csvs using read.csv and read.csv2
+
+If you have any requests, feel free to let me know via the issues page or by shooting me a message.
 
 ### Actual proper tutorials
 Suggested materials for learning
