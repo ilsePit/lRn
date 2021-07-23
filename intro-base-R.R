@@ -1,6 +1,5 @@
-# Introduction to R #
-# Rladies meetup May 24th 
-# questions? amsterdam@rladies.org // ilsepit@gmail.com
+# File edited from Introduction to R for Rladies Amsterdam by Ilse Pit on May 24th 2018 #
+# questions? ilsepit@gmail.com
 
 ############################################  SHORTCUTS  ############################################  
 
